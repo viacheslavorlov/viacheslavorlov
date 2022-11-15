@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Viacheslav orlov
+- 👋 Hi, I’m Viacheslav Orlov
 - 👀 I’m interested in React or Next.js development with RTK or witout it)
 - 🌱 I’m currently learning TS, NextJS
 - 💞️ I’m looking to collaborate on any JS/React/Next project
