@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on any JS/TS/React/Next project
 - 📫 viacheslavorlov@gmail.com
 
+### 😮 I speak:
+- English B2-C1
+- Russian native
+- German A1-A2
+
+### 💰 Lokin for a job right now
+
 ### :hammer_and_wrench: Languages and main Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
