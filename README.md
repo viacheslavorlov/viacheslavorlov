@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viacheslav Orlov
-- :man_technologist: I’m interested in React development with RTK or witout it)
-- 🌱 I’m currently learning TS, Advanced react featchures
+- :man_technologist: I’m interested in React/Next.js development
+- 🌱 I’m constantly learning TS, Advanced react featchures, new libraries
 - 💞️ I’m looking to collaborate on any JS/TS/React/Next project
 - 📫 viacheslavorlov@gmail.com
 
