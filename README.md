@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Viacheslav Orlov
-- :man_technologist: I’m interested in React/Next.js development
-- 🌱 I’m constantly learning TS, Advanced react featchures, new libraries
-- 💞️ I’m looking to collaborate on any JS/TS/React/Next project
+- :man_technologist: I’m interested in React/Next.js/Astro.js/Node.js development
+- 🌱 I’m constantly learning new featchures and new libraries
+- 💞️ I’m looking to collaborate on any React/Next/Astro project
 - 📫 viacheslavorlov@gmail.com
 
 ### 😮 I speak:
