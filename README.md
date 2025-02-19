@@ -29,11 +29,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viacheslavorlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 [<div><img align="left" src="/metrics.classic.svg"></div>](#)
 [<img align="left" src="/metrics.plugin.languages.details.svg"> ](#)
 [<img align="left" src="/metrics.plugin.isocalendar.fullyear.svg"> ](#)
-[<img align="left" style="padding-left: 5px;" src="/metrics.plugin.topics.icons.svg"> ](#) 
+[<img align="left" style="padding-left: 5px;" src="/metrics.plugin.topics.icons.svg"> ](#) -->
 
 <!---
 viacheslavorlov/viacheslavorlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
