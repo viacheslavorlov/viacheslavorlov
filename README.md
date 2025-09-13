@@ -63,31 +63,6 @@ I'm a passionate full-stack developer with expertise in modern JavaScript framew
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=viacheslavorlov&theme=dark&background=000000&fire=DD2727&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viacheslavorlov&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viacheslavorlov&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viacheslavorlov&theme=react-dark&bg_color=000000&hide_border=true&area=true" alt="Activity Graph" width="90%" />
-</p>
-
----
-
-### 🌐 Languages
-
-- **English**: B2-C1 (Professional proficiency)
-- **Russian**: Native
-- **German**: A1-A2 (Basic communication)
-
----
-
 ### 💼 Freelance Availability
 
 **🚀 Available for freelance projects!**
@@ -102,9 +77,32 @@ I'm currently accepting new clients and projects. Whether you need:
 
 Let's discuss your project requirements and how I can help bring your ideas to life!
 
+### 🌐 Languages
+
+- **English**: B2-C1 (Professional proficiency)
+- **Russian**: Native
+- **German**: A1-A2 (Basic communication)
+
+---
+
 **📫 How to reach me:**
 - Email: [viacheslavorlov@gmail.com](mailto:viacheslavorlov@gmail.com)
 - Telegram: [@viacheslavorlov](https://t.me/viacheslavorlov)
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=viacheslavorlov&theme=dark&background=000000&fire=DD2727&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  
+</p>
+<p  align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viacheslavorlov&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viacheslavorlov&theme=react-dark&bg_color=000000&hide_border=true&area=true" alt="Activity Graph" width="90%" />
+</p>
 
 ---
 
