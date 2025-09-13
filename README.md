@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Viacheslav%20Orlov&fontSize=40&fontAlignY=40&animation=fadeIn" alt="Header" />
 </p>
 
-<h1 align="center">🚀 Full-Stack Developer | React • Next.js • Astro.js • Node.js</h1>
-<h3 align="center">Crafting high-performance web applications with modern technologies</h3>
+<h1 align="center">🚀 Full-Stack Разработчик | React • Next.js • Astro.js • Node.js</h1>
+<h3 align="center">Создание высокопроизводительных веб-приложений с использованием современных технологий</h3>
 <br>
 <p align="center">
   <a href="mailto:viacheslavorlov@gmail.com">
@@ -14,21 +14,28 @@
   </a>
 </p>
 
----
-
-### 👋 About Me
-
-I'm a passionate full-stack developer with expertise in modern JavaScript frameworks and a strong focus on creating efficient, scalable web applications. I thrive on turning complex ideas into clean, maintainable code and enjoy collaborating on innovative projects.
-
-- 🔭 **Currently working on**: Advanced Astro.js projects with hybrid rendering
-- 🌱 **Constantly learning**: Advanced Node.js patterns and performance optimization
-- 👯 **Looking to collaborate**: On React/Next.js/Astro.js open source projects
-- 💬 **Ask me about**: React performance, SSR strategies, or full-stack architecture
-- ⚡ **Fun fact**: I can debug CSS while drinking coffee with my left hand!
+<div align="center">
+  <a href="/readme.md">English</a> •
+  <a href="/readme.ru.md">Русский</a> •
+  <a href="/readme.de.md">Deutsch</a>
+</div>
 
 ---
 
-### 🛠️ Technical Skills
+### 👋 Обо мне
+
+Я full-stack разработчик с опытом работы в современных JavaScript фреймворках, специализируюсь на создании эффективных и масштабируемых веб-приложений. Имею экспертизу в автоматизации процессов с использованием , разработке ботов для Telegram и VK.
+
+- 🔭 **Сейчас работаю над**: Продвинутыми проектами на Astro.js с гибридным рендерингом и автоматизацией процессов
+- 🌱 **Постоянно изучаю**: Паттерны Node.js, оптимизацию производительности и методы автоматизации
+- 🤖 **Экспертиза в автоматизации**: Создание сложных поцессов в n8n или чистом коде, разработка ботов для Telegram и интеграции с VK различной степени сложности
+- 👯 **Открыт к сотрудничеству**: По проектам на React/Next.js/Astro.js или решениям для автоматизации
+- 💬 **Можете спросить о**: Производительности сайта, SSR стратегиях, автоматизации процессов или разработке ботов
+
+---
+
+
+### 🛠️ Технические навыки
 
 #### Frontend Development
 <div>
@@ -52,52 +59,71 @@ I'm a passionate full-stack developer with expertise in modern JavaScript framew
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" title="Fastify" alt="Fastify" width="40" height="40"/>&nbsp;
 </div>
 
+#### Автоматизация процессов и боты
+<div>
+  <img src="https://github.com/viacheslavorlov/viacheslavorlov/blob/main/n8n.svg" title="N8N" alt="N8N" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/telegram-app.png" title="Telegram API" alt="Telegram API" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/vk-com.png" title="VK API" alt="VK API" width="40" height="40"/>&nbsp;
+</div>
+
 #### DevOps & Tools
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/viacheslavorlov/viacheslavorlov/blob/main/n8n.svg" title="N8N" alt="N8N" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### 💼 Freelance Availability
+### 🤖  Услуги автоматизации
 
-**🚀 Available for freelance projects!**
+#### Автоматизация процессов и разработка ботов
 
-I'm currently accepting new clients and projects. Whether you need:
+- Индивидуальные n8n workflow для автоматизации бизнес-процессов
+- Telegram боты для поддержки клиентов, уведомлений и доставки контента
+- VK боты для управления сообществами и вовлечения аудитории
+- Интеграции между различными платформами и API
+- Системы автоматизированной обработки данных и отчетности
 
-- Full-stack web application development
-- Performance optimization of existing applications
-- Migration from traditional SSR to modern frameworks like Astro
-- Code review and technical consulting
-- Custom React component development
+---
 
-Let's discuss your project requirements and how I can help bring your ideas to life!
+### 💼 **🚀 Доступен для фриланс-проектов!**
 
-### 🌐 Languages
+В настоящее время я принимаю новых клиентов и проекты:
 
-- **English**: B2-C1 (Professional proficiency)
+- Разработка веб-приложений полного цикла
+- Решения для автоматизации процессов
+- Разработка пользовательских ботов для Telegram / VK
+- Оптимизация производительности существующих приложений
+- Переход с традиционных SSR на современные платформы, такие как Astro
+- Проверка кода и технические консультации
+
+Давайте обсудим требования к вашему проекту и то, как я могу помочь воплотить ваши идеи в жизнь!
+---
+
+### 🌐 Языки
+
+- **English**: B2-C1
 - **Russian**: Native
-- **German**: A1-A2 (Basic communication)
+- **German**: A1-A2
 
 ---
 
-**📫 How to reach me:**
+**📫 Как со мной связаться:**
+
 - Email: [viacheslavorlov@gmail.com](mailto:viacheslavorlov@gmail.com)
-- Telegram: [@viacheslavorlov](https://t.me/viacheslavorlov)
+- Telegram: [@viacheslav_orlov_87](https://t.me/viacheslav_orlov_87)
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Статистика GitHub
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=viacheslavorlov&theme=dark&background=000000&fire=DD2727&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-  
 </p>
-<p  align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viacheslavorlov&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
 </p>
 <p align="center">
@@ -105,12 +131,6 @@ Let's discuss your project requirements and how I can help bring your ideas to l
 </p>
 
 ---
-
-<!--
-[<div><img align="left" src="/metrics.classic.svg"></div>](#)
-[<img align="left" src="/metrics.plugin.languages.details.svg"> ](#)
-[<img align="left" src="/metrics.plugin.isocalendar.fullyear.svg"> ](#)
-[<img align="left" style="padding-left: 5px;" src="/metrics.plugin.topics.icons.svg"> ](#) -->
 
 <!---
 viacheslavorlov/viacheslavorlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
