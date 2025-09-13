@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="/readme.en.md">English</a> •
-  <a href="/readme.md">Русский</a> •
+  <a href="/">Русский</a> •
   <a href="/readme.de.md">Deutsch</a>
 </div>
 
