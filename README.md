@@ -47,10 +47,9 @@ I'm a passionate full-stack developer with expertise in modern JavaScript framew
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" title="Fastify" alt="Fastify" width="40" height="40"/>&nbsp;
 </div>
 
 #### DevOps & Tools
@@ -60,45 +59,54 @@ I'm a passionate full-stack developer with expertise in modern JavaScript framew
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/viacheslavorlov/viacheslavorlov/blob/main/n8n.svg" title="N8N" alt="N8N" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### 😮 I speak:
-- English B2-C1
-- Russian native
-- German A1-A2
+### 📊 GitHub Statistics
 
-### 💰 not looking for a job right now
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=viacheslavorlov&theme=dark&background=000000&fire=DD2727&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</p>
 
-### :hammer_and_wrench: Languages and main Tools :
-<div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro.js" alt="Astro.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postress" alt="Postress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/viacheslavorlov/viacheslavorlov/blob/main/n8n.svg" title="N8N" alt="N8N" width="40" height="40"/>&nbsp;
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viacheslavorlov&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viacheslavorlov&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viacheslavorlov&theme=react-dark&bg_color=000000&hide_border=true&area=true" alt="Activity Graph" width="90%" />
+</p>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viacheslavorlov&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viacheslavorlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🌐 Languages
+
+- **English**: B2-C1 (Professional proficiency)
+- **Russian**: Native
+- **German**: A1-A2 (Basic communication)
+
+---
+
+### 💼 Freelance Availability
+
+**🚀 Available for freelance projects!**
+
+I'm currently accepting new clients and projects. Whether you need:
+
+- Full-stack web application development
+- Performance optimization of existing applications
+- Migration from traditional SSR to modern frameworks like Astro
+- Code review and technical consulting
+- Custom React component development
+
+Let's discuss your project requirements and how I can help bring your ideas to life!
+
+**📫 How to reach me:**
+- Email: [viacheslavorlov@gmail.com](mailto:viacheslavorlov@gmail.com)
+- Telegram: [@viacheslavorlov](https://t.me/viacheslavorlov)
+
+---
 
 <!--
 [<div><img align="left" src="/metrics.classic.svg"></div>](#)
